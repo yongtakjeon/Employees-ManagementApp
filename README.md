@@ -18,7 +18,7 @@ https://employees-management1.herokuapp.com/
 
 ### Key Features
 
-- This application is designed to be used only when you log in.
+- This application is designed to be used only if the user logs in.
 - If you click on an employee's name, you can view the employee's detailed information and edit the information.
 - If you click on the Manager ID, Status (Full time, or Part time) or Department number, you can see only the corresponding employees.
 - This application manages employee information through postgreSQL. Also, a login function was installed through MongoDB.
